@@ -1,6 +1,6 @@
 # Autofill Hijacking Test - GitHub Edition
 
-This file tests whether browser autofill can be triggered by HTML that appears as TEXT (not executed) on GitHub.
+This file tests whether browser autofill can be triggered by HdTML that appears as TEXT (not executed) on GitHub.
 
 ## Test 1: HTML in Code Block
 
@@ -75,7 +75,7 @@ const maliciousHTML = `
     </form>
   </foreignObject>
 </svg>
-```
+```d
 
 ## Expected Behavior
 
